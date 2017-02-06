@@ -1,0 +1,30 @@
+﻿body {
+    text-align: center;
+}
+.headersmall {
+    font-style: oblique;
+}
+.topBox {
+    background-color: antiquewhite;
+    height: 75px;
+}
+.nav.nav-justified {
+    background-color: #fff;
+    margin: 0;
+}
+
+.panel-heading{
+    background-color: #C8CCC9;
+}
+.panel-body map{
+    height: 350px;
+}
+.panel-footer{
+    background-color: #C8CCC9;
+}
+.nav nav-justified{
+    background-color: #DDEEEE;
+}
+
+
+
